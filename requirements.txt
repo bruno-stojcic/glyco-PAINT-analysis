@@ -1,0 +1,18 @@
+# Core numerical / tabular
+numpy
+pandas
+scipy
+
+# Notebook / display
+jupyter
+ipykernel
+matplotlib
+seaborn
+
+# Progress / CLI prompts
+tqdm
+click
+
+# SMLM data loading and analysis
+locan
+scikit-learn
