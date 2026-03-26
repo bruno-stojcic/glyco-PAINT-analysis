@@ -95,10 +95,5 @@ The current notebook writes outputs to a dated folder on the user's Desktop. Exa
 - DBSCAN summary CSVs
 - publication-style PNG figures
 
-For a cleaner public repository, consider changing the output folder to a relative path such as:
-
-```python
-analysis_output_dir = Path("outputs") / f"{date_tag}_glyco_analysis"
-analysis_output_dir.mkdir(parents=True, exist_ok=True)
 ```
 
